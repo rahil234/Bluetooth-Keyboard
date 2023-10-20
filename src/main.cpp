@@ -1,8 +1,6 @@
 /* 
  * Sample program for ESP32 acting as a Bluetooth keyboard
- * 
- * Copyright (c) 2019 Manuel Bl
- * 
+ 
  * Licensed under MIT License
  * https://opensource.org/licenses/MIT
  */
